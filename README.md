@@ -1,35 +1,55 @@
-# Customer Lifetime Value (CLV) Prediction & Revenue Optimization System
+# E-commerce Sales & Customer Intelligence
 
-An end-to-end customer analytics and revenue optimization system using SQL, Python, Machine Learning, Power BI, and Streamlit.
+## Overview
 
-## 📌 Project Overview
-This project simulates a real-world business pipeline to predict customer lifetime value (CLV) and optimize revenue strategies. It integrates database management, data engineering, machine learning, business intelligence, and deployment into a single production-style system.
+An end-to-end e-commerce analytics project focused on understanding sales performance, customer behavior, product performance and key business KPIs.
 
-## 🛠 Tech Stack
-- **Database:** MySQL
-- **Backend:** Python (Pandas, NumPy, Scikit-learn)
-- **Machine Learning:** Regression & Customer Segmentation Models
-- **Visualization:** Power BI
-- **Deployment:** Streamlit
-- **Tools:** VS Code, Git, GitHub
+The project combines SQL, Python, Power BI and Excel to transform raw business data into analytical insights and business recommendations.
 
-## 🔄 System Architecture
-1. Customer transaction data ingestion into MySQL
-2. ETL using SQL for data transformation and aggregation
-3. Data analysis, EDA, and feature engineering in Python
-4. Machine learning model training to estimate CLV
-5. Business dashboard creation using Power BI
-6. Model deployment via Streamlit for real-time predictions
+## Objectives
 
-## ✨ Key Features
-- Automated ETL pipelines
-- Customer segmentation and CLV estimation
-- Revenue forecasting and optimization insights
-- Interactive dashboards for business users
-- Web-based prediction interface
+- Analyze sales and revenue performance
+- Understand customer purchasing behavior
+- Identify high-performing products and categories
+- Track important business KPIs
+- Build an analytical database using SQL
+- Perform exploratory analysis using Python
+- Develop interactive Power BI dashboards
+- Translate analytical findings into business recommendations
 
-## 🚧 Project Status
-In Progress — Actively building and enhancing.
+## Technology Stack
 
-## 👤 Author
-Kunal Mittal
+- SQL
+- MySQL
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- Excel
+
+## Project Workflow
+
+Raw Data  
+↓  
+Data Staging  
+↓  
+Data Cleaning & Validation  
+↓  
+Relational Database  
+↓  
+SQL Analysis  
+↓  
+Python Analysis  
+↓  
+Power BI Dashboard  
+↓  
+Business Insights  
+↓  
+Recommendations
+
+## Project Structure
+
+```text
+database/       SQL database design and analysis
+screenshots/    Project screenshots
